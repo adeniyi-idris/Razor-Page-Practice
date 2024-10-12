@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\web app\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE49ADF0-DA0D-4BFD-93D5-518D0279861A}|WebApplication2.csproj|c:\\users\\user\\documents\\web app\\webapplication2\\pages\\categories_temp\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE49ADF0-DA0D-4BFD-93D5-518D0279861A}|WebApplication2.csproj|solutionrelative:pages\\categories_temp\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE49ADF0-DA0D-4BFD-93D5-518D0279861A}|WebApplication2.csproj|c:\\users\\user\\documents\\web app\\webapplication2\\pages\\categories_temp\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE49ADF0-DA0D-4BFD-93D5-518D0279861A}|WebApplication2.csproj|solutionrelative:pages\\categories_temp\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE49ADF0-DA0D-4BFD-93D5-518D0279861A}|WebApplication2.csproj|c:\\users\\user\\documents\\web app\\webapplication2\\pages\\categories_temp\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE49ADF0-DA0D-4BFD-93D5-518D0279861A}|WebApplication2.csproj|solutionrelative:pages\\categories_temp\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE49ADF0-DA0D-4BFD-93D5-518D0279861A}|WebApplication2.csproj|c:\\users\\user\\documents\\web app\\webapplication2\\pages\\categories_temp\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE49ADF0-DA0D-4BFD-93D5-518D0279861A}|WebApplication2.csproj|solutionrelative:pages\\categories_temp\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE49ADF0-DA0D-4BFD-93D5-518D0279861A}|WebApplication2.csproj|c:\\users\\user\\documents\\web app\\webapplication2\\pages\\categories_temp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE49ADF0-DA0D-4BFD-93D5-518D0279861A}|WebApplication2.csproj|solutionrelative:pages\\categories_temp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE49ADF0-DA0D-4BFD-93D5-518D0279861A}|WebApplication2.csproj|c:\\users\\user\\documents\\web app\\webapplication2\\pages\\categories_temp\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE49ADF0-DA0D-4BFD-93D5-518D0279861A}|WebApplication2.csproj|solutionrelative:pages\\categories_temp\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE49ADF0-DA0D-4BFD-93D5-518D0279861A}|WebApplication2.csproj|c:\\users\\user\\documents\\web app\\webapplication2\\pages\\categories_temp\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE49ADF0-DA0D-4BFD-93D5-518D0279861A}|WebApplication2.csproj|solutionrelative:pages\\categories_temp\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE49ADF0-DA0D-4BFD-93D5-518D0279861A}|WebApplication2.csproj|c:\\users\\user\\documents\\web app\\webapplication2\\pages\\categories_temp\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE49ADF0-DA0D-4BFD-93D5-518D0279861A}|WebApplication2.csproj|solutionrelative:pages\\categories_temp\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE49ADF0-DA0D-4BFD-93D5-518D0279861A}|WebApplication2.csproj|c:\\users\\user\\documents\\web app\\webapplication2\\pages\\categories_temp\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE49ADF0-DA0D-4BFD-93D5-518D0279861A}|WebApplication2.csproj|solutionrelative:pages\\categories_temp\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE49ADF0-DA0D-4BFD-93D5-518D0279861A}|WebApplication2.csproj|c:\\users\\user\\documents\\web app\\webapplication2\\pages\\categories_temp\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE49ADF0-DA0D-4BFD-93D5-518D0279861A}|WebApplication2.csproj|solutionrelative:pages\\categories_temp\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\web app\\WebApplication2\\Pages\\Categories_Temp\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categories_Temp\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\web app\\WebApplication2\\Pages\\Categories_Temp\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categories_Temp\\Index.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:38:19.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\web app\\WebApplication2\\Pages\\Categories_Temp\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categories_Temp\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\web app\\WebApplication2\\Pages\\Categories_Temp\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Categories_Temp\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T14:38:19.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\web app\\WebApplication2\\Pages\\Categories_Temp\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categories_Temp\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\web app\\WebApplication2\\Pages\\Categories_Temp\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categories_Temp\\Delete.cshtml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:38:19.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\web app\\WebApplication2\\Pages\\Categories_Temp\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categories_Temp\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\web app\\WebApplication2\\Pages\\Categories_Temp\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Categories_Temp\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T14:38:19.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\web app\\WebApplication2\\Pages\\Categories_Temp\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categories_Temp\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\web app\\WebApplication2\\Pages\\Categories_Temp\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categories_Temp\\Details.cshtml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:38:18.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\web app\\WebApplication2\\Pages\\Categories_Temp\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categories_Temp\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\web app\\WebApplication2\\Pages\\Categories_Temp\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Categories_Temp\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T14:38:18.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\web app\\WebApplication2\\Pages\\Categories_Temp\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categories_Temp\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\web app\\WebApplication2\\Pages\\Categories_Temp\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categories_Temp\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:38:18.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\web app\\WebApplication2\\Pages\\Categories_Temp\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categories_Temp\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\web app\\WebApplication2\\Pages\\Categories_Temp\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Categories_Temp\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T14:38:18.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\web app\\WebApplication2\\Pages\\Categories_Temp\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categories_Temp\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\web app\\WebApplication2\\Pages\\Categories_Temp\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categories_Temp\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:38:18.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\web app\\WebApplication2\\Pages\\Categories_Temp\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categories_Temp\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\web app\\WebApplication2\\Pages\\Categories_Temp\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Categories_Temp\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T14:38:18.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
